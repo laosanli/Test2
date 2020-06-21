@@ -21,5 +21,6 @@ public class TestGit1 {
         System.out.println("主干添加2");
         System.out.println("分支添加");
         System.out.println("分支添加2");
+        System.out.println("在线添加");
     }
 }
