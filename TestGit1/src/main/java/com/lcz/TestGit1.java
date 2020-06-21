@@ -13,5 +13,6 @@ public class TestGit1 {
         System.out.println("hello git");
         System.out.println("gengxin");
         System.out.println("更新2");
+        System.out.println("更新3");
     }
 }
